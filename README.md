@@ -1,14 +1,13 @@
 # Krótko o mnie
 - 20 lat 🧑🏻
 - Kraków 🏙️
-- Akademia Górniczo-Hutnicza im. Stanisława Staszica 🎓
-- Informatyka i Systemy Inteligentne 🤖
+- Studiuje w Akademii Górniczo-Hutniczej im. Stanisława Staszica 🎓
+- Na kierunku Informatyka i Systemy Inteligentne 📚
 
 ## Nad czym aktualnie pracuje
-- **What2watch**
+- **What2watch** 🎬
 
 ## Moje zainteresowania
 - Programowanie 🧑🏻‍💻
 - Siłownia 🏋🏻
 - Matematyka 📏
-- Moda 🧢
