@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Gensuto's homepage
-description: Welcome to my website 😎
+description: Witaj na mojej stronie GitHub! 🚀
 plugins:
 - jekyll-remote-theme
