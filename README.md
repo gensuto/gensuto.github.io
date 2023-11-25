@@ -5,7 +5,6 @@
 - Informatyka i Systemy Inteligentne 🤖
 
 ## Nad czym aktualnie pracuje
-- **To-Do-App**
 - **What2watch**
 
 ## Moje zainteresowania
